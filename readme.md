@@ -5,7 +5,7 @@
 - My name is **Sergo**.
 - I'm from a **Russia**.
 - I am **14** years old
-- I'm **stupid** and **cute** Pikachu
+- I'm **stupid** and **cute** Pikachu ( ͡눈 ͜ʖ ͡눈)
 - I am **FULLSTACK** Web Developer ( ͡⚆ ͜ʖ ͡⚆)
 
 ## Interests
@@ -34,7 +34,5 @@
 ![python](https://img.shields.io/static/v1?label=&message=Python&color=191919&style=for-the-badge&logo=Python)
 
 ### Frameworks
-![React](https://img.shields.io/static/v1?label=&message=React&style=for-the-badge&logo=react&color=191919)
 ![Vue](https://img.shields.io/static/v1?label=&message=vue&style=for-the-badge&logo=vue.js&color=191919)
-![Nest](https://img.shields.io/static/v1?label=&message=NestJS&style=for-the-badge&logo=nestJS&color=191919&logoColor=E0234E)
 
