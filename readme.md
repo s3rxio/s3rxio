@@ -11,9 +11,10 @@
 ## Interests
 - I'm love more games. ( ͡눈 ͜ʖ ͡눈)
 - I'm love Programming (っ ͡❛ ͜ʖ ͡❛)っ
-- I'm pro bhoper(677ssj :D) ( ͡⚆ ͜ʖ ͡⚆)
+- I'm love bhop(677ssj) ( ͡⚆ ͜ʖ ͡⚆)
 
 ## My Socials
+[![youtube](https://img.shields.io/static/v1?label=&message=Youtube&color=191919&style=for-the-badge&logo=youtube)](https://www.youtube.com/channel/UCeIhMtpxzuhbq7LBYPPJ7Xw)
 [![discord](https://img.shields.io/static/v1?label=&message=DISCORD&color=191919&style=for-the-badge&logo=discord)](https://discordapp.com/users/485736695396958209)
 [![github](https://img.shields.io/static/v1?label=&message=github&color=191919&style=for-the-badge&logo=github)](https://github.com/KotOdinochka)
 [![steam](https://img.shields.io/static/v1?label=&message=steam&color=191919&style=for-the-badge&logo=Steam)](https://steamcommunity.com/id/taiga1love/)
