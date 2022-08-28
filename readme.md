@@ -4,14 +4,13 @@
 ## 💬 About me  
 - My name is **Sergo**.
 - I'm from a **Russia**.
-- I am **14** years old
+- I am **15** years old
 - I'm **stupid** and **cute** Pikachu ( ͡눈 ͜ʖ ͡눈)
 - I am **FULLSTACK** Web Developer ( ͡⚆ ͜ʖ ͡⚆)
 
 ## Interests
 - I'm love more games. ( ͡눈 ͜ʖ ͡눈)
 - I'm love Programming (っ ͡❛ ͜ʖ ͡❛)っ
-- I'm love bhop(677ssj) ( ͡⚆ ͜ʖ ͡⚆)
 
 ## My Socials
 [![youtube](https://img.shields.io/static/v1?label=&message=Youtube&color=191919&style=for-the-badge&logo=youtube)](https://www.youtube.com/channel/UCeIhMtpxzuhbq7LBYPPJ7Xw)
