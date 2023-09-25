@@ -4,8 +4,7 @@
 ## 💬 About me  
 - My name is **Sergo**.
 - I'm from a **Russia**.
-- I am **15** years old
-- I'm **stupid** and **cute** Pikachu ( ͡눈 ͜ʖ ͡눈)
+- I am **17** years old
 - I am **FULLSTACK** Web Developer ( ͡⚆ ͜ʖ ͡⚆)
 
 ## Interests
