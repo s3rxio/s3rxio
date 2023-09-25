@@ -8,7 +8,7 @@
 - I am **FULLSTACK** Web Developer ( ͡⚆ ͜ʖ ͡⚆)
 
 ## Interests
-- I'm love more games. ( ͡눈 ͜ʖ ͡눈)
+- I'm love games. ( ͡눈 ͜ʖ ͡눈)
 - I'm love Programming (っ ͡❛ ͜ʖ ͡❛)っ
 
 ## My Socials
