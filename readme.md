@@ -20,6 +20,7 @@
 
 ## IDE/Text Redactors
 [![visualstudiocode](https://img.shields.io/static/v1?label=&message=VS%20Code&color=191919&style=for-the-badge&logo=visualstudiocode&logoColor=white)](https://code.visualstudio.com/)
+[![webstorm](https://img.shields.io/static/v1?label=&message=WebStorm&color=191919&style=for-the-badge&logo=webstorm&logoColor=white)](https://www.jetbrains.com/webstorm/)
 
 ## Programming languages
 [![typescript](https://img.shields.io/static/v1?label=&message=TypeScript&color=191919&style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
