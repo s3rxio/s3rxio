@@ -1,5 +1,5 @@
 # Pika, Pika!
-## Welcome to my [GitHub](https://github.com/s3rxio) profile.
+## Welcome to my [GitHub](https://github.com/s3rxio) profile!
 -------
 ## 💬 About me  
 - My name is **Sergo**
