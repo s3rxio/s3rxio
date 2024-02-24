@@ -3,7 +3,7 @@
 -------
 ## 💬 About me  
 - My name is **Sergo**
-- I'm from a **Georgia**
+- I am from a **Georgia**
 - I am **17** years old
 - I am **FULLSTACK** Web Developer
 - I use **Arch** btw
