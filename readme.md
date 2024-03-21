@@ -1,7 +1,7 @@
 # Pika, Pika!
 ## Welcome to my [GitHub](https://github.com/s3rxio) profile!
 -------
-## 💬 About me  
+## About me  
 - My name is **Sergo**
 - I am from a **Georgia**
 - I am **17** years old
